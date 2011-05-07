@@ -1,3 +1,5 @@
+Add support for play framework
+
 VMware's Cloud Application Platform
 ===================================
 
